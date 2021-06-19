@@ -11,5 +11,7 @@ The Challenges
 3. The younger population challenge: Creating innovative policymaking tools for school reopening plans, all the while detecting infection trends among youth and adults in the education system.  
 
 Useful Links
+
 https://govextra.gov.il/ministry-of-health/covid19-challenge/home/
+
 https://www.gov.il/en/departments/news/11032021-02
